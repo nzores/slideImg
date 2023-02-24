@@ -1,3 +1,1 @@
-# slideImg
-slideImg
-basic slider for images
+Basic slider for images
